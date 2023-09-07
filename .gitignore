@@ -2,3 +2,6 @@ secrets.txt
 tracks_data.json
 yearly_tracks_data.json
 combined_tracks.csv
+clustered_tracks.csv
+.DS_Store
+.cache
